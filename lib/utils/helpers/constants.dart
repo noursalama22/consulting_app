@@ -12,6 +12,5 @@ const Color kLightGreyColor = Color(0xFFE6E6E6);
 const Color kWhiteColor = Color(0xFFFFFFFF);
 const Color kMediumGreyColor = Color(0xFFB2B2B2);
 const Color kBackgroundColor = Color(0xFFF7F6FF);
-//
-//
+
 // ============= TEXT STYLES CONSTS ==============
